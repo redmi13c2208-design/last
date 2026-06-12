@@ -1,16 +1,1 @@
-body {
-  margins: 0 ;
-background: #0b0b14;
-  color: white:;
-  font-family Arial;
-}
-header {
-  display: flex;
-  justify-content: space-between;
-  padding: 20px;
-}
-.hero {
-  main-height: 80vh;
-  display: grid;
-  place-items: center;
-}
+
